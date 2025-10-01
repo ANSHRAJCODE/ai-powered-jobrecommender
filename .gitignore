@@ -1,0 +1,31 @@
+# Environment variables - VERY IMPORTANT
+# This prevents your secret keys from being uploaded to GitHub
+.env
+*.env
+
+# Python cache and artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Conda/virtual environment folders
+job_recommender_env/
+*env/
+.venv/
+venv/
+
+# Local database files (if any are created for testing)
+*.db
+*.sqlite3
+data/
+
+# Downloaded archives from ml-model-prep
+ml-model-prep/data.zip
+jobs-on-naukricom.zip
+naukri_com-job_sample.csv
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store

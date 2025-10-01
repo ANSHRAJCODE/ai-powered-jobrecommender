@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4f46e5"  # A nice indigo for buttons and highlights
+backgroundColor = "#f0f2f6"  # A light, neutral gray for the main background
+secondaryBackgroundColor = "#ffffff"  # White for cards and containers
+textColor = "#1f2937"  # A dark, readable gray for text
+font = "sans serif"

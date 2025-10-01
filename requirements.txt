@@ -1,0 +1,44 @@
+# fastapi
+# uvicorn
+# joblib==1.4.2
+# numpy
+# scikit-learn
+# pandas
+# sentence-transformers
+# langchain
+# langchain-google-genai
+# python-dotenv
+# google.generativeai
+# pypdf
+# pdfplumber
+# google-generativeai
+# argon2-cffi
+# python-jose[cryptography]
+# sqlalchemy
+# psycopg2-binary
+# FastAPI and Server
+fastapi
+uvicorn
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Auth & Security
+argon2-cffi
+python-jose[cryptography]
+
+# AI & Data Processing
+langchain
+langchain-google-genai
+google-generativeai
+sentence-transformers
+joblib==1.4.2
+scikit-learn
+pandas
+pdfplumber
+
+# Environment
+python-dotenv
+python-multipart
+streamlit
